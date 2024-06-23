@@ -1,6 +1,6 @@
 
 import './App.css'
-import Todo from './components/Todo'
+import Todo from "./components/Todo"
 
 function App() {
  
@@ -9,7 +9,8 @@ function App() {
     <>
     <div className="bg-stone-700 grid py-4 min-h-screen">
 
-      <Todo/>
+      <Todo />
+     
     </div>
     
     </>
